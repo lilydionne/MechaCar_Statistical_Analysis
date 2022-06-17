@@ -12,7 +12,19 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 
 ## Summary Statistics on Suspension Coils
 
-![]()
-![]()
+![](https://github.com/lilydionne/MechaCar_Statistical_Analysis/blob/main/total_summary.PNG)
+![](https://github.com/lilydionne/MechaCar_Statistical_Analysis/blob/main/lot_summary.PNG)
 
-The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+Based on the design specifications for the MechaCar suspension coils, the design specifications does fall under the required variance of 100 pounds per square inch for the overall manufacturing lots. However when reviewing the variance by lot, we see that Lot 3 does not meet the design specification as the variance is slightly over 170, which exceeds standards.
+
+## T-Tests on Suspension Coils
+
+Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+
+## Study Design: MechaCar vs Competition
+
+In your description, address the following questions:
+What metric or metrics are you going to test?
+What is the null hypothesis or alternative hypothesis?
+What statistical test would you use to test the hypothesis? And why?
+What data is needed to run the statistical test?
