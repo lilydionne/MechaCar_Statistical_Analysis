@@ -9,3 +9,10 @@ According to our results, vehicle length and ground clearance (as well as interc
 Given that the p-value of our linear regression analysis is 5.35 x 10-6, which is much smaller than our assumed significance level of 0.05, we can state that the slope of our linear model is not zero.
 
 Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+
+## Summary Statistics on Suspension Coils
+
+![]()
+![]()
+
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
